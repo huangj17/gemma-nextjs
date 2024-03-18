@@ -1,6 +1,6 @@
 # 使用 nextjs 本地化部署 AI 大模型 gemma
 
-**本案例使用到：ollama + nextjs + langchain.js + milvus**
+**本案例使用到：ollama + nextjs + langchain.js + milvus 来实现知识库问答和聊天。**
 
 **​ollama：​**本地运行模型服务
 

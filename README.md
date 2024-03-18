@@ -32,4 +32,4 @@ yarn run dev
 http://localhost:3000
 ```
 
-有任何问题，可以提交到 issue
+有任何问题，可以提交到 issues

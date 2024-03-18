@@ -1,0 +1,49 @@
+{
+  "name": "gemma-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/cssinjs": "1.18.4",
+    "@ant-design/icons": "^5.3.0",
+    "@langchain/community": "^0.0.34",
+    "@langchain/exa": "^0.0.3",
+    "@xenova/transformers": "^2.16.0",
+    "@zilliz/milvus2-sdk-node": "^2.3.5",
+    "ahooks": "^3.7.10",
+    "antd": "^5.14.2",
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "d3-dsv": "2",
+    "formidable": "^3.5.1",
+    "langchain": "^0.1.24",
+    "lodash": "^4.17.21",
+    "mammoth": "^1.7.0",
+    "marked": "^12.0.0",
+    "next": "14.1.0",
+    "officeparser": "^4.0.8",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/formidable": "^3.4.5",
+    "@types/lodash": "^4.14.202",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.0",
+    "postcss": "^8",
+    "prettier-plugin-organize-imports": "^3.2.4",
+    "prettier-plugin-packagejson": "^2.4.12",
+    "sass": "^1.71.1",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}
